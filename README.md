@@ -113,7 +113,7 @@ The instructor outlines the characteristics of strong passwords:
 
 **Password entropy:** 
 <ul>
-  <li>A measure of a password's unpredictability, is explained. Higher entropy means a password is harder to crack.</li>
+  <li>A measure of a password's unpredictability is explained. Higher entropy means a password is harder to crack.</li>
 </ul>
 
 <h3><ins>
@@ -173,6 +173,6 @@ The lecture concludes with a reminder that strong passwords are crucial in prote
 <h2>Games</h2>
 <a href="https://create.kahoot.it/share/quiz-lesson-11-2-password-security/103d9888-1ba7-4c53-9377-737b55e0602a"> Kahoot: Password Security </a>
 
-<h2>Additonal Resources</h2>
+<h2>Additional Resources</h2>
 
 <a href="https://docs.google.com/document/d/1NqdCT4Tyit5-GpfNsYTNeBvcg2DKv9-r/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">Using SSL/TLS Encryption</a>
